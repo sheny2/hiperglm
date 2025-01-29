@@ -6,3 +6,4 @@ Authors@R:
 Description: The package fits generalized linear model efficiently.
 License: MIT + file LICENSE
 Encoding: UTF-8
+RoxygenNote: 7.3.2
